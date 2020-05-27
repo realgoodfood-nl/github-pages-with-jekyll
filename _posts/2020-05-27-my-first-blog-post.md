@@ -1,4 +1,4 @@
 ---
-Title:"Testing Blogging"
-Date:2020-05-26
+title:"Testing Blogging"
+date:2020-05-26
 ---
