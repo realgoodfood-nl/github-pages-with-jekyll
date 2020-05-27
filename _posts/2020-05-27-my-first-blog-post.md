@@ -1,6 +1,7 @@
-Title: Testing Blogging
+---
+Title: "Testing Blogging"
 Date: 2020-05-26
-
+---
 Hello there here I am testing
 What happens when I type
 *does this do anything*
@@ -9,3 +10,4 @@ What happens when I type
 //Hello//
 Hello
 - and this
+---
