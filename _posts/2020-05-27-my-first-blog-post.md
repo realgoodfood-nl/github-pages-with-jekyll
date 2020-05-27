@@ -10,4 +10,3 @@ What happens when I type
 //Hello//
 Hello
 - and this
----
